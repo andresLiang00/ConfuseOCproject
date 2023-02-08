@@ -3,10 +3,14 @@ ios objective-c project code confuse
 混淆文档说明
 
 代码由纯python编写完成，在运行前需要进行的操作包括:
+
 1.安装python3
-    1）若已安装过brew，可在命令行直接输入brew install python3；
-    2）可直接到官网进行安装
-    安装完成后在终端输入：python3查询是否安装完成
+
+1）若已安装过brew，可在命令行直接输入brew install python3;
+
+2）可直接到官网进行安装
+
+安装完成后在终端输入：python3查询是否安装完成
 
 2.运行环境
 
