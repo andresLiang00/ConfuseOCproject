@@ -2,6 +2,8 @@
 ios objective-c project code confuse
 混淆文档说明
 
+git内为部分项目内容
+
 代码由纯python编写完成，在运行前需要进行的操作包括:
 
 1.安装python3
