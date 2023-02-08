@@ -9,8 +9,8 @@ ios objective-c project code confuse
     安装完成后在终端输入：python3查询是否安装完成
 
 2.运行环境
-    1）若已有pycharm，可在pycharm内直接运行
-    2）若无pycharm，在终端直接运行py文件
+1）若已有pycharm，可在pycharm内直接运行
+2）若无pycharm，在终端直接运行py文件
 
 脚本实现的功能
 1.类名混淆;
